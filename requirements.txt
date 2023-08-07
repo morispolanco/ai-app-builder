@@ -1,5 +1,5 @@
-app-openai-utils
-app-project-generator
-app-file-creator
+openai-utils
+project-generator
+file-creator
 streamlit
 openai
