@@ -1,3 +1,5 @@
 app-openai-utils
 app-project-generator
 app-file-creator
+streamlit
+openai
