@@ -1,3 +1,4 @@
+import streamlit as st
 import sys
 from app.openai_utils import OpenAIUtils
 from app.project_generator import ProjectGenerator
